@@ -1,0 +1,35 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_flexible_toast (0.0.1):
+    - Flutter
+  - jitsi_meet (0.0.1):
+    - Flutter
+    - JitsiMeetSDK (= 2.9.0)
+  - JitsiMeetSDK (2.9.0)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_flexible_toast (from `.symlinks/plugins/flutter_flexible_toast/ios`)
+  - jitsi_meet (from `.symlinks/plugins/jitsi_meet/ios`)
+
+SPEC REPOS:
+  trunk:
+    - JitsiMeetSDK
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_flexible_toast:
+    :path: ".symlinks/plugins/flutter_flexible_toast/ios"
+  jitsi_meet:
+    :path: ".symlinks/plugins/jitsi_meet/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_flexible_toast: 0547e740cae0c33bb7c51bcd931233f4584e1143
+  jitsi_meet: c49bd4f937f4ba2a52cea215727b56b1b1fc82cb
+  JitsiMeetSDK: e108ea68ed0ea9a59c4c90b057c5840db10ff069
+
+PODFILE CHECKSUM: c34e2287a9ccaa606aeceab922830efb9a6ff69a
+
+COCOAPODS: 1.9.3
